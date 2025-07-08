@@ -168,6 +168,8 @@ The Fi MCP (Model Context Protocol) provides access to comprehensive financial d
 
 </details>
 
+[Sample response](./sample_responses/fetch_net_worth.json)
+
 **Error Handling**:
 
 * Returns empty result if no financial accounts are connected  
@@ -298,6 +300,8 @@ The Fi MCP (Model Context Protocol) provides access to comprehensive financial d
 
 </details>
 
+[Sample response](./sample_responses/fetch_credit_report.json)
+
 **Error Handling**:
 
 * Returns "No credit score data available" if not connected  
@@ -376,6 +380,8 @@ The Fi MCP (Model Context Protocol) provides access to comprehensive financial d
 
 </details>
 
+[Sample response](./sample_responses/fetch_epf_details.json)
+
 **Error Handling**:
 
 * Directs users to link EPF account through Fi Money app if not connected
@@ -433,6 +439,8 @@ The Fi MCP (Model Context Protocol) provides access to comprehensive financial d
 ```
 
 </details>
+
+[Sample response](./sample_responses/fetch_mf_transactions.json)
 
 **Notes on Response Structure**:
 
