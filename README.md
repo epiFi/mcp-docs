@@ -384,7 +384,7 @@ The Fi MCP (Model Context Protocol) provides access to comprehensive financial d
 
 ### 
 
-### **4\. `fetch_transactions`**
+### **4\. `fetch_mf_transactions`**
 
 **Purpose**: Retrieve mutual funds transaction history for portfolio analysis
 
@@ -587,7 +587,7 @@ Javascript snippet
 ```javascript
 async function calculatePortfolioXIRR() {
   try {
-    const response = await mcp.call('networth:fetch_transactions');
+    const response = await mcp.call('networth:fetch_mf_transactions');
     if (response.transactions && response.transactions.length > 0) {
       const transactions = response.transactions;
       

@@ -1,0 +1,55 @@
+{
+  "uanAccounts": [
+    {
+      "phoneNumber": {},
+      "rawDetails": {
+        "est_details": [
+          {
+            "est_name": "KARZA TECHNOLOGIES PRIVATE LIMITED",
+            "member_id": "MHBANXXXXXXXXXXXXXXXXX",
+            "office": "(RO)BANDRA(MUMBAI-I)",
+            "doj_epf": "24-03-2021",
+            "doe_epf": "02-01-2022",
+            "doe_eps": "02-01-2022",
+            "pf_balance": {
+              "net_balance": "200000",
+              "employee_share": {
+                "credit": "100000",
+                "balance": "100000"
+              },
+              "employer_share": {
+                "credit": "100000",
+                "balance": "100000"
+              }
+            }
+          },
+          {
+            "est_name": "TSS CONSULTANCY PRIVATE LIMITED",
+            "member_id": "MHBAN*****************",
+            "office": "(RO)BANDRA(MUMBAI-I)",
+            "doj_epf": "07-08-2018",
+            "doe_epf": "02-01-2022",
+            "doe_eps": "02-01-2022",
+            "pf_balance": {
+              "net_balance": "11111",
+              "employee_share": {
+                "credit": "5000"
+              },
+              "employer_share": {
+                "credit": "5000"
+              }
+            }
+          }
+        ],
+        "overall_pf_balance": {
+          "pension_balance": "1000000",
+          "current_pf_balance": "211111",
+          "employee_share_total": {
+            "credit": "1111",
+            "balance": "11111"
+          }
+        }
+      }
+    }
+  ]
+}

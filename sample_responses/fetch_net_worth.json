@@ -1,0 +1,1042 @@
+{
+  "netWorthResponse": {
+    "assetValues": [
+      {
+        "netWorthAttribute": "ASSET_TYPE_MUTUAL_FUND",
+        "value": {
+          "currencyCode": "INR",
+          "units": "84613"
+        }
+      },
+      {
+        "netWorthAttribute": "ASSET_TYPE_EPF",
+        "value": {
+          "currencyCode": "INR",
+          "units": "211111"
+        }
+      },
+      {
+        "netWorthAttribute": "ASSET_TYPE_INDIAN_SECURITIES",
+        "value": {
+          "currencyCode": "INR",
+          "units": "200642"
+        }
+      },
+      {
+        "netWorthAttribute": "ASSET_TYPE_SAVINGS_ACCOUNTS",
+        "value": {
+          "currencyCode": "INR",
+          "units": "436355"
+        }
+      }
+    ],
+    "liabilityValues": [
+      {
+        "netWorthAttribute": "LIABILITY_TYPE_OTHER_LOAN",
+        "value": {
+          "currencyCode": "INR",
+          "units": "42000"
+        }
+      },
+      {
+        "netWorthAttribute": "LIABILITY_TYPE_HOME_LOAN",
+        "value": {
+          "currencyCode": "INR",
+          "units": "17000"
+        }
+      },
+      {
+        "netWorthAttribute": "LIABILITY_TYPE_VEHICLE_LOAN",
+        "value": {
+          "currencyCode": "INR",
+          "units": "5000"
+        }
+      }
+    ],
+    "totalNetWorthValue": {
+      "currencyCode": "INR",
+      "units": "868721"
+    }
+  },
+  "mfSchemeAnalytics": {
+    "schemeAnalytics": [
+      {
+        "schemeDetail": {
+          "amc": "CANARA_ROBECO",
+          "nameData": {
+            "longName": "Canara Robeco Gilt Fund"
+          },
+          "planType": "DIRECT",
+          "investmentType": "OPEN",
+          "optionType": "GROWTH",
+          "nav": {
+            "currencyCode": "INR",
+            "units": "73",
+            "nanos": 450300000
+          },
+          "assetClass": "DEBT",
+          "isinNumber": "INF760K01FC4",
+          "categoryName": "GOVERNMENT_BOND",
+          "fundhouseDefinedRiskLevel": "MODERATE_RISK"
+        },
+        "enrichedAnalytics": {
+          "analytics": {
+            "schemeDetails": {
+              "currentValue": {
+                "currencyCode": "INR",
+                "units": "54141",
+                "nanos": 968504017
+              },
+              "investedValue": {
+                "currencyCode": "INR",
+                "units": "6655",
+                "nanos": 460000000
+              },
+              "XIRR": 129.91475375746282,
+              "absoluteReturns": {
+                "currencyCode": "INR",
+                "units": "47486",
+                "nanos": 508504017
+              },
+              "unrealisedReturns": {
+                "currencyCode": "INR",
+                "units": "47486",
+                "nanos": 508504017
+              },
+              "navValue": {
+                "currencyCode": "INR",
+                "units": "81",
+                "nanos": 414200000
+              },
+              "units": 665.0187375668689
+            }
+          }
+        }
+      },
+      {
+        "schemeDetail": {
+          "amc": "ICICI_PRUDENTIAL",
+          "nameData": {
+            "longName": "ICICI Prudential Nifty 50 Index Fund"
+          },
+          "planType": "DIRECT",
+          "investmentType": "OPEN",
+          "optionType": "GROWTH",
+          "divReinvOptionType": "REINVESTMENT_ONY",
+          "nav": {
+            "currencyCode": "INR",
+            "units": "232",
+            "nanos": 380500000
+          },
+          "assetClass": "EQUITY",
+          "isinNumber": "INF109K012M7",
+          "categoryName": "INDEX_FUNDS",
+          "fundhouseDefinedRiskLevel": "VERY_HIGH_RISK"
+        },
+        "enrichedAnalytics": {
+          "analytics": {
+            "schemeDetails": {
+              "currentValue": {
+                "currencyCode": "INR",
+                "units": "20147",
+                "nanos": 9681617
+              },
+              "investedValue": {
+                "currencyCode": "INR",
+                "units": "20054",
+                "nanos": 50755620
+              },
+              "XIRR": 23.278395563728317,
+              "absoluteReturns": {
+                "currencyCode": "INR",
+                "units": "92",
+                "nanos": 958925997
+              },
+              "unrealisedReturns": {
+                "currencyCode": "INR",
+                "units": "92",
+                "nanos": 958925997
+              },
+              "navValue": {
+                "currencyCode": "INR",
+                "units": "266",
+                "nanos": 415900000
+              },
+              "units": 75.62239972020237
+            }
+          }
+        }
+      },
+      {
+        "schemeDetail": {
+          "amc": "ICICI_PRUDENTIAL",
+          "nameData": {
+            "longName": "ICICI Prudential Nifty 50 Index Fund"
+          },
+          "planType": "DIRECT",
+          "investmentType": "OPEN",
+          "optionType": "GROWTH",
+          "divReinvOptionType": "REINVESTMENT_ONY",
+          "nav": {
+            "currencyCode": "INR",
+            "units": "232",
+            "nanos": 380500000
+          },
+          "assetClass": "EQUITY",
+          "isinNumber": "INF109K012M7",
+          "categoryName": "INDEX_FUNDS",
+          "fundhouseDefinedRiskLevel": "VERY_HIGH_RISK"
+        },
+        "enrichedAnalytics": {
+          "analytics": {
+            "schemeDetails": {
+              "currentValue": {
+                "currencyCode": "INR",
+                "units": "6923",
+                "nanos": 570000000
+              },
+              "investedValue": {
+                "currencyCode": "INR"
+              },
+              "XIRR": 0,
+              "absoluteReturns": {
+                "currencyCode": "INR"
+              },
+              "unrealisedReturns": {
+                "currencyCode": "INR"
+              },
+              "navValue": {
+                "currencyCode": "INR",
+                "units": "185",
+                "nanos": 643100000
+              },
+              "units": 37.29505702070263
+            }
+          }
+        }
+      },
+      {
+        "schemeDetail": {
+          "amc": "ICICI_PRUDENTIAL",
+          "nameData": {
+            "longName": "ICICI Prudential Balanced Advantage Fund"
+          },
+          "planType": "DIRECT",
+          "investmentType": "OPEN",
+          "optionType": "GROWTH",
+          "nav": {
+            "currencyCode": "INR",
+            "units": "71",
+            "nanos": 650000000
+          },
+          "assetClass": "HYBRID",
+          "isinNumber": "INF109K012B0",
+          "categoryName": "DYNAMIC_ASSET_ALLOCATION",
+          "fundhouseDefinedRiskLevel": "HIGH_RISK"
+        },
+        "enrichedAnalytics": {
+          "analytics": {
+            "schemeDetails": {
+              "currentValue": {
+                "currencyCode": "INR",
+                "units": "1746",
+                "nanos": 414478218
+              },
+              "investedValue": {
+                "currencyCode": "INR"
+              },
+              "XIRR": 0,
+              "absoluteReturns": {
+                "currencyCode": "INR"
+              },
+              "unrealisedReturns": {
+                "currencyCode": "INR"
+              },
+              "navValue": {
+                "currencyCode": "INR",
+                "units": "21",
+                "nanos": 84100000
+              },
+              "units": 82.83087626304456
+            }
+          }
+        }
+      },
+      {
+        "schemeDetail": {
+          "amc": "ICICI_PRUDENTIAL",
+          "nameData": {
+            "longName": "ICICI Prudential Balanced Advantage Fund"
+          },
+          "planType": "DIRECT",
+          "investmentType": "OPEN",
+          "optionType": "GROWTH",
+          "nav": {
+            "currencyCode": "INR",
+            "units": "71",
+            "nanos": 650000000
+          },
+          "assetClass": "HYBRID",
+          "isinNumber": "INF109K012B0",
+          "categoryName": "DYNAMIC_ASSET_ALLOCATION",
+          "fundhouseDefinedRiskLevel": "HIGH_RISK"
+        },
+        "enrichedAnalytics": {
+          "analytics": {
+            "schemeDetails": {
+              "currentValue": {
+                "currencyCode": "INR",
+                "units": "1438",
+                "nanos": 678832201
+              },
+              "investedValue": {
+                "currencyCode": "INR",
+                "units": "5272"
+              },
+              "XIRR": -17.430194898264094,
+              "absoluteReturns": {
+                "currencyCode": "INR",
+                "units": "-3833",
+                "nanos": -321167799
+              },
+              "unrealisedReturns": {
+                "currencyCode": "INR",
+                "units": "-3833",
+                "nanos": -321167799
+              },
+              "navValue": {
+                "currencyCode": "INR",
+                "units": "12",
+                "nanos": 231100000
+              },
+              "units": 117.6246480039755
+            }
+          }
+        }
+      },
+      {
+        "schemeDetail": {
+          "amc": "UTI",
+          "nameData": {
+            "longName": "UTI Overnight Fund"
+          },
+          "planType": "DIRECT",
+          "investmentType": "OPEN",
+          "optionType": "GROWTH",
+          "nav": {
+            "currencyCode": "INR",
+            "units": "3279",
+            "nanos": 785700000
+          },
+          "assetClass": "CASH",
+          "isinNumber": "INF789FB1S71",
+          "categoryName": "OVERNIGHT",
+          "fundhouseDefinedRiskLevel": "LOW_RISK"
+        },
+        "enrichedAnalytics": {
+          "analytics": {
+            "schemeDetails": {
+              "currentValue": {
+                "currencyCode": "INR",
+                "units": "123",
+                "nanos": 100000000
+              },
+              "investedValue": {
+                "currencyCode": "INR",
+                "units": "29235",
+                "nanos": 68000000
+              },
+              "XIRR": -82.3806209069403,
+              "absoluteReturns": {
+                "currencyCode": "INR",
+                "units": "-29111",
+                "nanos": -968000000
+              },
+              "unrealisedReturns": {
+                "currencyCode": "INR",
+                "units": "-29111",
+                "nanos": -968000000
+              },
+              "navValue": {
+                "currencyCode": "INR",
+                "units": "12",
+                "nanos": 310000000
+              },
+              "units": 10
+            }
+          }
+        }
+      },
+      {
+        "schemeDetail": {
+          "amc": "ICICI_PRUDENTIAL",
+          "nameData": {
+            "longName": "ICICI Prudential Balanced Advantage Fund"
+          },
+          "planType": "DIRECT",
+          "investmentType": "OPEN",
+          "optionType": "GROWTH",
+          "nav": {
+            "currencyCode": "INR",
+            "units": "71",
+            "nanos": 650000000
+          },
+          "assetClass": "HYBRID",
+          "isinNumber": "INF109K012B0",
+          "categoryName": "DYNAMIC_ASSET_ALLOCATION",
+          "fundhouseDefinedRiskLevel": "HIGH_RISK"
+        },
+        "enrichedAnalytics": {
+          "analytics": {
+            "schemeDetails": {
+              "currentValue": {
+                "currencyCode": "INR",
+                "units": "51",
+                "nanos": 610077158
+              },
+              "investedValue": {
+                "currencyCode": "INR"
+              },
+              "XIRR": 0,
+              "absoluteReturns": {
+                "currencyCode": "INR"
+              },
+              "unrealisedReturns": {
+                "currencyCode": "INR"
+              },
+              "navValue": {
+                "currencyCode": "INR",
+                "units": "61",
+                "nanos": 925900000
+              },
+              "units": 0.8334166666666667
+            }
+          }
+        }
+      },
+      {
+        "schemeDetail": {
+          "amc": "ICICI_PRUDENTIAL",
+          "nameData": {
+            "longName": "ICICI Prudential Balanced Advantage Fund"
+          },
+          "planType": "DIRECT",
+          "investmentType": "OPEN",
+          "optionType": "GROWTH",
+          "nav": {
+            "currencyCode": "INR",
+            "units": "71",
+            "nanos": 650000000
+          },
+          "assetClass": "HYBRID",
+          "isinNumber": "INF109K012B0",
+          "categoryName": "DYNAMIC_ASSET_ALLOCATION",
+          "fundhouseDefinedRiskLevel": "HIGH_RISK"
+        },
+        "enrichedAnalytics": {
+          "analytics": {
+            "schemeDetails": {
+              "currentValue": {
+                "currencyCode": "INR",
+                "units": "28",
+                "nanos": 170566775
+              },
+              "investedValue": {
+                "currencyCode": "INR"
+              },
+              "XIRR": 0,
+              "absoluteReturns": {
+                "currencyCode": "INR"
+              },
+              "unrealisedReturns": {
+                "currencyCode": "INR"
+              },
+              "navValue": {
+                "currencyCode": "INR",
+                "units": "33",
+                "nanos": 801300000
+              },
+              "units": 0.8334166666666667
+            }
+          }
+        }
+      },
+      {
+        "schemeDetail": {
+          "amc": "ICICI_PRUDENTIAL",
+          "nameData": {
+            "longName": "ICICI Prudential Balanced Advantage Fund"
+          },
+          "planType": "DIRECT",
+          "investmentType": "OPEN",
+          "optionType": "GROWTH",
+          "nav": {
+            "currencyCode": "INR",
+            "units": "71",
+            "nanos": 650000000
+          },
+          "assetClass": "HYBRID",
+          "isinNumber": "INF109K012B0",
+          "categoryName": "DYNAMIC_ASSET_ALLOCATION",
+          "fundhouseDefinedRiskLevel": "HIGH_RISK"
+        },
+        "enrichedAnalytics": {
+          "analytics": {
+            "schemeDetails": {
+              "currentValue": {
+                "currencyCode": "INR",
+                "units": "13",
+                "nanos": 64973033
+              },
+              "investedValue": {
+                "currencyCode": "INR"
+              },
+              "XIRR": 0,
+              "absoluteReturns": {
+                "currencyCode": "INR"
+              },
+              "unrealisedReturns": {
+                "currencyCode": "INR"
+              },
+              "navValue": {
+                "currencyCode": "INR",
+                "units": "15",
+                "nanos": 676400000
+              },
+              "units": 0.8334166666666667
+            }
+          }
+        }
+      }
+    ]
+  },
+  "accountDetailsBulkResponse": {
+    "accountDetailsMap": {
+      "102dc53c-0398-40b3-8134-9c198d780dcf": {
+        "accountDetails": {
+          "fipId": "IDFCFirstBank-FIP",
+          "maskedAccountNumber": "XXXXXX0439",
+          "accInstrumentType": "ACC_INSTRUMENT_TYPE_RECURRING_DEPOSIT",
+          "accountType": {
+            "recurringDepositAccountType": "RECURRING_DEPOSIT_ACCOUNT_TYPE_RECURRING"
+          },
+          "fipMeta": {
+            "name": "IDFC Bank",
+            "displayName": "IDFC",
+            "bank": "IDFC"
+          }
+        }
+      },
+      "144a3179-a516-48c6-9ed9-73e2f2721c05": {
+        "accountDetails": {
+          "fipId": "HDFC-FIP",
+          "maskedAccountNumber": "XXXXXX8697",
+          "accInstrumentType": "ACC_INSTRUMENT_TYPE_DEPOSIT",
+          "ifscCode": "EPIFI000012",
+          "accountType": {
+            "depositAccountType": "DEPOSIT_ACCOUNT_TYPE_SAVINGS"
+          },
+          "fipMeta": {
+            "name": "HDFC Bank",
+            "displayName": "HDFC",
+            "bank": "HDFC"
+          }
+        },
+        "depositSummary": {
+          "accountId": "144a3179-a516-48c6-9ed9-73e2f2721c05",
+          "currentBalance": {
+            "currencyCode": "INR",
+            "units": "106775"
+          },
+          "balanceDate": "2025-07-08T12:30:14Z",
+          "depositAccountType": "DEPOSIT_ACCOUNT_TYPE_SAVINGS",
+          "branch": "Test",
+          "ifscCode": "EPIFI000012",
+          "micrCode": "EPIFI1234",
+          "openingDate": "2024-07-07T00:00:00Z",
+          "depositAccountStatus": "DEPOSIT_ACCOUNT_STATUS_ACTIVE"
+        }
+      },
+      "241d639b-bc89-4654-9679-f4205b005765": {
+        "accountDetails": {
+          "fipId": "IDFCFirstBank-FIP",
+          "maskedAccountNumber": "XXXXXX8081",
+          "accInstrumentType": "ACC_INSTRUMENT_TYPE_DEPOSIT",
+          "ifscCode": "EPIFI000012",
+          "accountType": {
+            "depositAccountType": "DEPOSIT_ACCOUNT_TYPE_SAVINGS"
+          },
+          "fipMeta": {
+            "name": "IDFC Bank",
+            "displayName": "IDFC",
+            "bank": "IDFC"
+          }
+        },
+        "depositSummary": {
+          "accountId": "241d639b-bc89-4654-9679-f4205b005765",
+          "currentBalance": {
+            "currencyCode": "INR",
+            "units": "102735"
+          },
+          "balanceDate": "2025-07-08T12:30:15Z",
+          "depositAccountType": "DEPOSIT_ACCOUNT_TYPE_SAVINGS",
+          "branch": "Test",
+          "ifscCode": "EPIFI000012",
+          "micrCode": "EPIFI1234",
+          "openingDate": "2025-05-27T00:00:00Z",
+          "depositAccountStatus": "DEPOSIT_ACCOUNT_STATUS_ACTIVE"
+        }
+      },
+      "298184ef-bb92-40cd-afbf-3481d96bdf9e": {
+        "accountDetails": {
+          "fipId": "HDFC-FIP",
+          "maskedAccountNumber": "XXXXXX3139",
+          "accInstrumentType": "ACC_INSTRUMENT_TYPE_DEPOSIT",
+          "ifscCode": "EPIFI000012",
+          "accountType": {
+            "depositAccountType": "DEPOSIT_ACCOUNT_TYPE_CURRENT"
+          },
+          "fipMeta": {
+            "name": "HDFC Bank",
+            "displayName": "HDFC",
+            "bank": "HDFC"
+          }
+        },
+        "depositSummary": {
+          "accountId": "298184ef-bb92-40cd-afbf-3481d96bdf9e",
+          "currentBalance": {
+            "currencyCode": "INR",
+            "units": "102464"
+          },
+          "balanceDate": "2025-07-08T12:30:15Z",
+          "depositAccountType": "DEPOSIT_ACCOUNT_TYPE_CURRENT",
+          "branch": "Test",
+          "ifscCode": "EPIFI000012",
+          "micrCode": "EPIFI1234",
+          "openingDate": "2024-07-07T00:00:00Z",
+          "depositAccountStatus": "DEPOSIT_ACCOUNT_STATUS_ACTIVE"
+        }
+      },
+      "322ef727-c9e1-4347-9077-a8914466ef84": {
+        "accountDetails": {
+          "fipId": "HDFC-FIP",
+          "maskedAccountNumber": "XXXXXX6831",
+          "accInstrumentType": "ACC_INSTRUMENT_TYPE_DEPOSIT",
+          "ifscCode": "EPIFI000012",
+          "accountType": {
+            "depositAccountType": "DEPOSIT_ACCOUNT_TYPE_SAVINGS"
+          },
+          "fipMeta": {
+            "name": "HDFC Bank",
+            "displayName": "HDFC",
+            "bank": "HDFC"
+          }
+        },
+        "depositSummary": {
+          "accountId": "322ef727-c9e1-4347-9077-a8914466ef84",
+          "currentBalance": {
+            "currencyCode": "INR",
+            "units": "10726"
+          },
+          "balanceDate": "2025-07-08T12:30:15Z",
+          "depositAccountType": "DEPOSIT_ACCOUNT_TYPE_SAVINGS",
+          "branch": "Test",
+          "ifscCode": "EPIFI000012",
+          "micrCode": "EPIFI1234",
+          "openingDate": "2024-07-07T00:00:00Z",
+          "depositAccountStatus": "DEPOSIT_ACCOUNT_STATUS_ACTIVE"
+        }
+      },
+      "47313386-570c-4cd2-9db6-ee2716bd8b65": {
+        "accountDetails": {
+          "fipId": "ICICI-FIP",
+          "maskedAccountNumber": "XXXXXX0443",
+          "accInstrumentType": "ACC_INSTRUMENT_TYPE_DEPOSIT",
+          "accountType": {
+            "depositAccountType": "DEPOSIT_ACCOUNT_TYPE_SAVINGS"
+          },
+          "fipMeta": {
+            "name": "ICICI Bank",
+            "displayName": "ICICI",
+            "bank": "ICICI"
+          }
+        }
+      },
+      "487bc140-b6b3-4bb6-aaab-457eeb7dab71": {
+        "accountDetails": {
+          "fipId": "fip@nsdl",
+          "maskedAccountNumber": "XXXXXX6066",
+          "accInstrumentType": "ACC_INSTRUMENT_TYPE_ETF",
+          "accountType": {
+            "etfAccountType": "ETF_ACCOUNT_TYPE_DEFAULT_TYPE"
+          },
+          "fipMeta": {
+            "name": "National Securities Depository Limited",
+            "displayName": "NSDL"
+          }
+        },
+        "etfSummary": {
+          "accountId": "487bc140-b6b3-4bb6-aaab-457eeb7dab71",
+          "currentValue": {
+            "currencyCode": "INR",
+            "units": "24913",
+            "nanos": 600000000
+          },
+          "holdingsInfo": [
+            {
+              "isin": "INF204KB14I2",
+              "units": 115,
+              "nav": {
+                "currencyCode": "INR",
+                "units": "216",
+                "nanos": 640000000
+              },
+              "lastNavDate": "2023-10-06T00:00:00Z",
+              "isinDescription": "NIP ETF NIFTY50 BEES"
+            },
+            {
+              "isin": "INF204KB14I3",
+              "units": 215,
+              "nav": {
+                "currencyCode": "INR",
+                "units": "400",
+                "nanos": 640000000
+              },
+              "lastNavDate": "2023-10-08T00:00:00Z",
+              "isinDescription": "NIP ETF NIFTY30 BEES"
+            }
+          ]
+        }
+      },
+      "51ee017b-7eaf-478d-97b2-913e6d4de272": {
+        "accountDetails": {
+          "fipId": "IDFCFirstBank-FIP",
+          "maskedAccountNumber": "XXXXXX6108",
+          "accInstrumentType": "ACC_INSTRUMENT_TYPE_DEPOSIT",
+          "ifscCode": "EPIFI000012",
+          "accountType": {
+            "depositAccountType": "DEPOSIT_ACCOUNT_TYPE_CURRENT"
+          },
+          "fipMeta": {
+            "name": "IDFC Bank",
+            "displayName": "IDFC",
+            "bank": "IDFC"
+          }
+        },
+        "depositSummary": {
+          "accountId": "51ee017b-7eaf-478d-97b2-913e6d4de272",
+          "currentBalance": {
+            "currencyCode": "INR",
+            "units": "101669"
+          },
+          "balanceDate": "2025-07-08T12:30:15Z",
+          "depositAccountType": "DEPOSIT_ACCOUNT_TYPE_CURRENT",
+          "branch": "Test",
+          "ifscCode": "EPIFI000012",
+          "micrCode": "EPIFI1234",
+          "openingDate": "2025-05-27T00:00:00Z",
+          "depositAccountStatus": "DEPOSIT_ACCOUNT_STATUS_ACTIVE"
+        }
+      },
+      "53e9ae4e-46c8-48b5-9051-a5ff01da2411": {
+        "accountDetails": {
+          "fipId": "HDFC-FIP",
+          "maskedAccountNumber": "XXXXXX0641",
+          "accInstrumentType": "ACC_INSTRUMENT_TYPE_RECURRING_DEPOSIT",
+          "accountType": {
+            "recurringDepositAccountType": "RECURRING_DEPOSIT_ACCOUNT_TYPE_RECURRING"
+          },
+          "fipMeta": {
+            "name": "HDFC Bank",
+            "displayName": "HDFC",
+            "bank": "HDFC"
+          }
+        }
+      },
+      "66d1faa8-563b-4af5-b738-85f46198faff": {
+        "accountDetails": {
+          "fipId": "IDFCFirstBank-FIP",
+          "maskedAccountNumber": "XXXXXX7612",
+          "accInstrumentType": "ACC_INSTRUMENT_TYPE_RECURRING_DEPOSIT",
+          "accountType": {
+            "recurringDepositAccountType": "RECURRING_DEPOSIT_ACCOUNT_TYPE_RECURRING"
+          },
+          "fipMeta": {
+            "name": "IDFC Bank",
+            "displayName": "IDFC",
+            "bank": "IDFC"
+          }
+        }
+      },
+      "a07eb7b4-5dc3-4da3-8855-2a53b2d83d79": {
+        "accountDetails": {
+          "fipId": "fip@nsdl",
+          "maskedAccountNumber": "XXXXXX4874",
+          "accInstrumentType": "ACC_INSTRUMENT_TYPE_EQUITIES",
+          "accountType": {
+            "equityAccountType": "EQUITY_ACCOUNT_TYPE_DEFAULT_TYPE"
+          },
+          "fipMeta": {
+            "name": "National Securities Depository Limited",
+            "displayName": "NSDL"
+          }
+        },
+        "equitySummary": {
+          "accountId": "a07eb7b4-5dc3-4da3-8855-2a53b2d83d79",
+          "currentValue": {
+            "currencyCode": "INR",
+            "units": "12000"
+          },
+          "holdingsInfo": [
+            {
+              "isin": "INE043B01028",
+              "issuerName": "VINTRON INFORMATICS LIMITED",
+              "type": "EQUITY_HOLDING_TYPE_DEMAT",
+              "units": 12,
+              "lastTradedPrice": {
+                "currencyCode": "INR",
+                "units": "5",
+                "nanos": 850000000
+              },
+              "isinDescription": "VINTRON INFORM-EQ1/-"
+            },
+            {
+              "isin": "INE916P01025",
+              "issuerName": "TRIVENI-EQ FV 1",
+              "type": "EQUITY_HOLDING_TYPE_DEMAT",
+              "units": 24,
+              "lastTradedPrice": {
+                "currencyCode": "INR",
+                "units": "13"
+              },
+              "isinDescription": "TRIVENI-EQ FV 1"
+            },
+            {
+              "isin": "INE040A01034",
+              "issuerName": "HDFC BANK LIMITED",
+              "type": "EQUITY_HOLDING_TYPE_DEMAT",
+              "units": 12,
+              "lastTradedPrice": {
+                "currencyCode": "INR",
+                "units": "1625"
+              },
+              "isinDescription": "HDFC BANK-EQ1/-"
+            }
+          ]
+        }
+      },
+      "a5552841-d50f-4e3f-81bc-847eb8d53323": {
+        "accountDetails": {
+          "fipId": "fip@nsdl",
+          "maskedAccountNumber": "XXXXXX1331",
+          "accInstrumentType": "ACC_INSTRUMENT_TYPE_EQUITIES",
+          "accountType": {
+            "equityAccountType": "EQUITY_ACCOUNT_TYPE_DEFAULT_TYPE"
+          },
+          "fipMeta": {
+            "name": "National Securities Depository Limited",
+            "displayName": "NSDL"
+          }
+        },
+        "equitySummary": {
+          "accountId": "a5552841-d50f-4e3f-81bc-847eb8d53323",
+          "currentValue": {
+            "currencyCode": "INR",
+            "units": "12000"
+          },
+          "holdingsInfo": [
+            {
+              "isin": "INE043B01028",
+              "issuerName": "VINTRON INFORMATICS LIMITED",
+              "type": "EQUITY_HOLDING_TYPE_DEMAT",
+              "units": 12,
+              "lastTradedPrice": {
+                "currencyCode": "INR",
+                "units": "5",
+                "nanos": 850000000
+              },
+              "isinDescription": "VINTRON INFORM-EQ1/-"
+            },
+            {
+              "isin": "INE916P01025",
+              "issuerName": "TRIVENI-EQ FV 1",
+              "type": "EQUITY_HOLDING_TYPE_DEMAT",
+              "units": 24,
+              "lastTradedPrice": {
+                "currencyCode": "INR",
+                "units": "13"
+              },
+              "isinDescription": "TRIVENI-EQ FV 1"
+            },
+            {
+              "isin": "INE040A01034",
+              "issuerName": "HDFC BANK LIMITED",
+              "type": "EQUITY_HOLDING_TYPE_DEMAT",
+              "units": 12,
+              "lastTradedPrice": {
+                "currencyCode": "INR",
+                "units": "1625"
+              },
+              "isinDescription": "HDFC BANK-EQ1/-"
+            }
+          ]
+        }
+      },
+      "b4ab0cb2-5a84-44f3-8e99-da8fb6a93753": {
+        "accountDetails": {
+          "fipId": "fip@nsdl",
+          "maskedAccountNumber": "XXXXXX1864",
+          "accInstrumentType": "ACC_INSTRUMENT_TYPE_REIT",
+          "accountType": {
+            "reitAccountType": "REIT_ACCOUNT_TYPE_DEFAULT_TYPE"
+          },
+          "fipMeta": {
+            "name": "National Securities Depository Limited",
+            "displayName": "NSDL"
+          }
+        },
+        "reitSummary": {
+          "accountId": "b4ab0cb2-5a84-44f3-8e99-da8fb6a93753",
+          "currentValue": {
+            "currencyCode": "INR",
+            "units": "24913",
+            "nanos": 600000000
+          },
+          "holdingsInfo": [
+            {
+              "isin": "INE0FDU25010",
+              "totalNumberUnits": 115,
+              "isinDescription": "BROOKFIELD INDIA REAL ESTATE TRUST",
+              "nominee": "NOMINEE_TYPE_REGISTERED",
+              "lastClosingRate": {
+                "currencyCode": "INR",
+                "units": "14",
+                "nanos": 550000000
+              }
+            },
+            {
+              "isin": "INE0CCU25019",
+              "totalNumberUnits": 215,
+              "isinDescription": "MINDSPACE BUSINESS PARKS REIT ",
+              "nominee": "NOMINEE_TYPE_REGISTERED",
+              "lastClosingRate": {
+                "currencyCode": "INR",
+                "units": "14",
+                "nanos": 550000000
+              }
+            }
+          ]
+        }
+      },
+      "b9377d21-932a-439c-8aa1-a9fa96231217": {
+        "accountDetails": {
+          "fipId": "fip@nsdl",
+          "maskedAccountNumber": "XXXXXX8185",
+          "accInstrumentType": "ACC_INSTRUMENT_TYPE_INVIT",
+          "accountType": {
+            "invitAccountType": "INVIT_ACCOUNT_TYPE_DEFAULT_TYPE"
+          },
+          "fipMeta": {
+            "name": "National Securities Depository Limited",
+            "displayName": "NSDL"
+          }
+        },
+        "invitSummary": {
+          "accountId": "b9377d21-932a-439c-8aa1-a9fa96231217",
+          "currentValue": {
+            "currencyCode": "INR",
+            "units": "24913",
+            "nanos": 600000000
+          },
+          "holdingsInfo": [
+            {
+              "isin": "INE0GGX23010",
+              "totalNumberUnits": 115,
+              "isinDescription": "POWERGRID INFRASTRUCTURE INVESTMENT TRUST"
+            },
+            {
+              "isin": "INE0BWS23018",
+              "totalNumberUnits": 215,
+              "isinDescription": "Data Infrastructure Trust"
+            }
+          ]
+        }
+      },
+      "be5e2d35-6daf-41ba-a161-95805f3b59c7": {
+        "accountDetails": {
+          "fipId": "IDFCFirstBank-FIP",
+          "maskedAccountNumber": "XXXXXX8859",
+          "accInstrumentType": "ACC_INSTRUMENT_TYPE_DEPOSIT",
+          "ifscCode": "EPIFI000012",
+          "accountType": {
+            "depositAccountType": "DEPOSIT_ACCOUNT_TYPE_SAVINGS"
+          },
+          "fipMeta": {
+            "name": "IDFC Bank",
+            "displayName": "IDFC",
+            "bank": "IDFC"
+          }
+        },
+        "depositSummary": {
+          "accountId": "be5e2d35-6daf-41ba-a161-95805f3b59c7",
+          "currentBalance": {
+            "currencyCode": "INR",
+            "units": "8518"
+          },
+          "balanceDate": "2025-07-08T12:30:14Z",
+          "depositAccountType": "DEPOSIT_ACCOUNT_TYPE_SAVINGS",
+          "branch": "Test",
+          "ifscCode": "EPIFI000012",
+          "micrCode": "EPIFI1234",
+          "openingDate": "2025-05-27T00:00:00Z",
+          "depositAccountStatus": "DEPOSIT_ACCOUNT_STATUS_ACTIVE"
+        }
+      },
+      "c46479bd-0bcb-4617-b660-04caa49c4907": {
+        "accountDetails": {
+          "fipId": "ICICI-FIP",
+          "maskedAccountNumber": "XXXXXX9775",
+          "accInstrumentType": "ACC_INSTRUMENT_TYPE_DEPOSIT",
+          "accountType": {
+            "depositAccountType": "DEPOSIT_ACCOUNT_TYPE_CURRENT"
+          },
+          "fipMeta": {
+            "name": "ICICI Bank",
+            "displayName": "ICICI",
+            "bank": "ICICI"
+          }
+        }
+      },
+      "d034b210-b527-4e2e-a871-2e06db5b2cc8": {
+        "accountDetails": {
+          "fipId": "ICICI-FIP",
+          "maskedAccountNumber": "XXXXXX1799",
+          "accInstrumentType": "ACC_INSTRUMENT_TYPE_DEPOSIT",
+          "accountType": {
+            "depositAccountType": "DEPOSIT_ACCOUNT_TYPE_SAVINGS"
+          },
+          "fipMeta": {
+            "name": "ICICI Bank",
+            "displayName": "ICICI",
+            "bank": "ICICI"
+          }
+        }
+      },
+      "d051bf68-fa34-4222-af9b-b8a39b0a8a68": {
+        "accountDetails": {
+          "fipId": "ICICI-FIP",
+          "maskedAccountNumber": "XXXXXX2470",
+          "accInstrumentType": "ACC_INSTRUMENT_TYPE_RECURRING_DEPOSIT",
+          "accountType": {
+            "recurringDepositAccountType": "RECURRING_DEPOSIT_ACCOUNT_TYPE_RECURRING"
+          },
+          "fipMeta": {
+            "name": "ICICI Bank",
+            "displayName": "ICICI",
+            "bank": "ICICI"
+          }
+        }
+      }
+    }
+  }
+}

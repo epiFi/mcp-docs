@@ -1,0 +1,78 @@
+{
+  "transactions": [
+    {
+      "isinNumber": "INF760K01FC4",
+      "folioId": "55557777",
+      "externalOrderType": "BUY",
+      "transactionDate": "2022-12-31T18:30:00Z",
+      "purchasePrice": {
+        "currencyCode": "INR",
+        "units": "66",
+        "nanos": 554600000
+      },
+      "transactionAmount": {
+        "currencyCode": "INR",
+        "units": "6655",
+        "nanos": 460000000
+      },
+      "transactionUnits": 100,
+      "transactionMode": "N",
+      "schemeName": "Canara Robeco Gilt Fund - Regular Plan"
+    },
+    {
+      "isinNumber": "INF789FB1S71",
+      "folioId": "7777711111",
+      "externalOrderType": "BUY",
+      "transactionDate": "2022-05-14T18:30:00Z",
+      "purchasePrice": {
+        "currencyCode": "INR",
+        "units": "2923",
+        "nanos": 506800000
+      },
+      "transactionAmount": {
+        "currencyCode": "INR",
+        "units": "29235",
+        "nanos": 68000000
+      },
+      "transactionUnits": 10,
+      "transactionMode": "N",
+      "schemeName": "UTI Overnight - Direct Plan"
+    },
+    {
+      "isinNumber": "INF109K012B0",
+      "folioId": "222221111",
+      "externalOrderType": "BUY",
+      "transactionDate": "2022-05-10T18:30:00Z",
+      "purchasePrice": {
+        "currencyCode": "INR",
+        "units": "52",
+        "nanos": 720000000
+      },
+      "transactionAmount": {
+        "currencyCode": "INR",
+        "units": "2636"
+      },
+      "transactionUnits": 50,
+      "transactionMode": "N",
+      "schemeName": "ICICI Prudential Balanced Advantage - Direct Plan"
+    },
+    {
+      "isinNumber": "INF109K012M7",
+      "folioId": "1234567",
+      "externalOrderType": "BUY",
+      "transactionDate": "2022-03-08T18:30:00Z",
+      "purchasePrice": {
+        "currencyCode": "INR",
+        "units": "165",
+        "nanos": 718700000
+      },
+      "transactionAmount": {
+        "currencyCode": "INR",
+        "units": "10027"
+      },
+      "transactionUnits": 60.5063,
+      "transactionMode": "N",
+      "schemeName": "ICICI Prudential Nifty 50 Index Fund - Direct Plan Growth "
+    }
+  ]
+}

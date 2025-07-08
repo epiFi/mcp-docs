@@ -1,0 +1,248 @@
+{
+  "creditReports": [
+    {
+      "creditReportData": {
+        "userMessage": {
+          "userMessageText": "Normal Response"
+        },
+        "creditProfileHeader": {
+          "reportDate": "20210620",
+          "reportTime": "023304"
+        },
+        "currentApplication": {
+          "currentApplicationDetails": {
+            "enquiryReason": "6",
+            "amountFinanced": "0",
+            "durationOfAgreement": "0",
+            "currentApplicantDetails": {
+              "dateOfBirthApplicant": "19910202"
+            }
+          }
+        },
+        "creditAccount": {
+          "creditAccountSummary": {
+            "account": {
+              "creditAccountTotal": "6",
+              "creditAccountActive": "6",
+              "creditAccountDefault": "0",
+              "creditAccountClosed": "0",
+              "cadSuitFiledCurrentBalance": "0"
+            },
+            "totalOutstandingBalance": {
+              "outstandingBalanceSecured": "44000",
+              "outstandingBalanceSecuredPercentage": "59",
+              "outstandingBalanceUnSecured": "31000",
+              "outstandingBalanceUnSecuredPercentage": "41",
+              "outstandingBalanceAll": "75000"
+            }
+          },
+          "creditAccountDetails": [
+            {
+              "subscriberName": "HDFC Bank",
+              "portfolioType": "I",
+              "accountType": "01",
+              "openDate": "20060110",
+              "highestCreditOrOriginalLoanAmount": "50000",
+              "accountStatus": "83",
+              "paymentRating": "5",
+              "paymentHistoryProfile": "00??????????????????????????????????",
+              "currentBalance": "5000",
+              "amountPastDue": "1000",
+              "dateReported": "20201228",
+              "occupationCode": "S",
+              "rateOfInterest": "11.5",
+              "repaymentTenure": "0",
+              "dateOfAddition": "20201028",
+              "currencyCode": "INR",
+              "accountHolderTypeCode": "1"
+            },
+            {
+              "subscriberName": "ICICI Bank",
+              "portfolioType": "I",
+              "accountType": "03",
+              "openDate": "20060122",
+              "highestCreditOrOriginalLoanAmount": "110000",
+              "accountStatus": "11",
+              "paymentRating": "0",
+              "paymentHistoryProfile": "44??????????????????????????????????",
+              "currentBalance": "17000",
+              "amountPastDue": "13000",
+              "dateReported": "20201228",
+              "occupationCode": "S",
+              "rateOfInterest": "8.24",
+              "repaymentTenure": "0",
+              "dateOfAddition": "20201028",
+              "currencyCode": "INR",
+              "accountHolderTypeCode": "1"
+            },
+            {
+              "subscriberName": "Aditya Brila Finance Limited",
+              "portfolioType": "I",
+              "accountType": "53",
+              "openDate": "20060119",
+              "highestCreditOrOriginalLoanAmount": "95000",
+              "accountStatus": "78",
+              "paymentRating": "2",
+              "paymentHistoryProfile": "33??????????????????????????????????",
+              "currentBalance": "14000",
+              "amountPastDue": "10000",
+              "dateReported": "20201228",
+              "occupationCode": "N",
+              "rateOfInterest": "14",
+              "repaymentTenure": "0",
+              "dateOfAddition": "20201028",
+              "currencyCode": "INR",
+              "accountHolderTypeCode": "1"
+            },
+            {
+              "subscriberName": "Bajaj Finance",
+              "portfolioType": "I",
+              "accountType": "04",
+              "openDate": "20060113",
+              "highestCreditOrOriginalLoanAmount": "65000",
+              "accountStatus": "11",
+              "paymentRating": "0",
+              "paymentHistoryProfile": "11??????????????????????????????????",
+              "currentBalance": "8000",
+              "amountPastDue": "0",
+              "dateReported": "20201228",
+              "occupationCode": "N",
+              "repaymentTenure": "0",
+              "dateOfAddition": "20201028",
+              "currencyCode": "INR",
+              "accountHolderTypeCode": "1"
+            },
+            {
+              "subscriberName": "Epifi Capital",
+              "portfolioType": "R",
+              "accountType": "10",
+              "openDate": "20060116",
+              "creditLimitAmount": "500000",
+              "highestCreditOrOriginalLoanAmount": "80000",
+              "accountStatus": "82",
+              "paymentRating": "4",
+              "paymentHistoryProfile": "22??????????????????????????????????",
+              "currentBalance": "11000",
+              "amountPastDue": "7000",
+              "dateReported": "20201228",
+              "occupationCode": "N",
+              "repaymentTenure": "0",
+              "dateOfAddition": "20201028",
+              "currencyCode": "INR",
+              "accountHolderTypeCode": "1"
+            },
+            {
+              "subscriberName": "Mannapuram Finance",
+              "portfolioType": "I",
+              "accountType": "06",
+              "openDate": "20060125",
+              "highestCreditOrOriginalLoanAmount": "125000",
+              "accountStatus": "71",
+              "paymentRating": "1",
+              "paymentHistoryProfile": "55??????????????????????????????????",
+              "currentBalance": "20000",
+              "amountPastDue": "16000",
+              "dateReported": "20201228",
+              "occupationCode": "N",
+              "repaymentTenure": "0",
+              "dateOfAddition": "20201028",
+              "currencyCode": "INR",
+              "accountHolderTypeCode": "1"
+            }
+          ]
+        },
+        "matchResult": {
+          "exactMatch": "Y"
+        },
+        "totalCapsSummary": {
+          "totalCapsLast7Days": "0",
+          "totalCapsLast30Days": "0",
+          "totalCapsLast90Days": "0",
+          "totalCapsLast180Days": "0"
+        },
+        "nonCreditCaps": {
+          "nonCreditCapsSummary": {
+            "nonCreditCapsLast7Days": "4",
+            "nonCreditCapsLast30Days": "4",
+            "nonCreditCapsLast90Days": "4",
+            "nonCreditCapsLast180Days": "4"
+          },
+          "capsApplicationDetailsArray": [
+            {
+              "SubscriberName": "Bajaj finance",
+              "FinancePurpose": "10",
+              "capsApplicantDetails": {},
+              "capsOtherDetails": {},
+              "capsApplicantAddressDetails": {},
+              "capsApplicantAdditionalAddressDetails": {}
+            },
+            {
+              "SubscriberName": "Muthoot finance",
+              "FinancePurpose": "2",
+              "capsApplicantDetails": {},
+              "capsOtherDetails": {},
+              "capsApplicantAddressDetails": {},
+              "capsApplicantAdditionalAddressDetails": {}
+            },
+            {
+              "SubscriberName": "HDFC",
+              "FinancePurpose": "8",
+              "capsApplicantDetails": {},
+              "capsOtherDetails": {},
+              "capsApplicantAddressDetails": {},
+              "capsApplicantAdditionalAddressDetails": {}
+            },
+            {
+              "SubscriberName": "SBI",
+              "FinancePurpose": "1",
+              "capsApplicantDetails": {},
+              "capsOtherDetails": {},
+              "capsApplicantAddressDetails": {},
+              "capsApplicantAdditionalAddressDetails": {}
+            }
+          ]
+        },
+        "score": {
+          "bureauScore": "746",
+          "bureauScoreConfidenceLevel": "H"
+        },
+        "segment": {},
+        "caps": {
+          "capsSummary": {
+            "capsLast7Days": "4",
+            "capsLast30Days": "4",
+            "capsLast90Days": "4",
+            "capsLast180Days": "4"
+          },
+          "capsApplicationDetailsArray": [
+            {
+              "SubscriberName": "Bajaj finance",
+              "DateOfRequest": "20250625",
+              "EnquiryReason": "10",
+              "FinancePurpose": "10"
+            },
+            {
+              "SubscriberName": "Muthoot finance",
+              "DateOfRequest": "20250625",
+              "EnquiryReason": "2",
+              "FinancePurpose": "2"
+            },
+            {
+              "SubscriberName": "HDFC",
+              "DateOfRequest": "20250625",
+              "EnquiryReason": "8",
+              "FinancePurpose": "8"
+            },
+            {
+              "SubscriberName": "SBI",
+              "DateOfRequest": "20250625",
+              "EnquiryReason": "1",
+              "FinancePurpose": "1"
+            }
+          ]
+        }
+      },
+      "vendor": "EXPERIAN"
+    }
+  ]
+}
