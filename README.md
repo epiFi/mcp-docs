@@ -452,18 +452,125 @@ The Fi MCP (Model Context Protocol) provides access to comprehensive financial d
 * Amounts use `units` (main amount) and `nanos` (fractional part) structure  
 * XIRR calculation needs to be done separately using this transaction data
 
-**Current Limitations**:
-
-* Does NOT include bank transactions  
-* Does NOT include stock transaction history  
-* No NPS or deposit transaction data  
-* Limited to mutual fund transactions only
 
 **Error Handling**:
 
 * Returns available data with clear indication of limitations  
 * Specifies which transaction types are not included  
 * SIP performance evaluator
+
+### **5\. `fetch_bank_transactions`**
+
+**Purpose**: Access bank transactions data connected to Fi Money app
+
+**Use Cases**:
+
+* All bank transactions data connected to Fi Money app
+
+**Data Included**:
+
+* Transaction amount
+* Narration of transactions
+* Transaction date
+* Current balance post transaction
+
+<details>
+  <summary>Response Format</summary>
+
+```json
+{
+  "schemaDescription": "A list of bank transactions. Each 'txns' field is a list of data arrays with schema: [transactionAmount, transactionNarration, transactionDate, transactionType (1 for CREDIT, 2 for DEBIT, 3 for OPENING, 4 for INTEREST, 5 for TDS, 6 for INSTALLMENT, 7 for CLOSING and 8 for OTHERS), transactionMode, currentBalance].\n We currently have have only last two month transaction, older transaction are coming soon...",
+  "bankTransactions": [
+    {
+      "bank": "HDFC Bank",
+      "txns": [
+        [
+          "80085",
+          "UPI-SHEETAL RAVINDRA DA-SHEETAL.DAMBAL@OKSBI-SBIN0010411-109209224698-SUFYAN",
+          "2025-07-09",
+          1,
+          "CARD_PAYMENT",
+          "-79109"
+        ],
+        [
+          "80677",
+          "UPI-DREAMPLUG TECHNOLOGI-CRED@AXISB-UTIB0000114-009400589368-CREDIT CARD BILL P",
+          "2025-07-09",
+          2,
+          "FT",
+          "1568"
+        ]
+      ]
+    }
+  ]
+}
+
+
+```
+
+</details>
+
+[Sample response](./sample_responses/fetch_bank_transaction.json)
+
+---
+
+### **6\. `fetch_stock_transactions`**
+
+**Purpose**: Access stock transaction from account connected to Fi Money app
+
+**Use Cases**:
+
+* All stock transactions connected
+
+**Data Included**:
+
+* ISIN as identifier of transactions
+* Transaction type (Buy, Sell, Dividend)
+* Transaction date
+* Nav value of transaction
+
+<details>
+  <summary>Response Format</summary>
+
+```json
+{
+  "schemaDescription": "A list of stock transactions. Each 'txns' field is a list of data arrays with schema: [transactionType (1 for BUY, 2 for SELL, 3 for BONUS, 4 for SPLIT), transactionDate, quantity, navValue]. nav value may not be present in some of the transactions",
+  "stockTransactions": [
+    {
+      "isin": "INE0BWS23018",
+      "txns": [
+        [
+          1,
+          "2023-05-04",
+          100
+        ],
+        [
+          1,
+          "2023-05-04",
+          170
+        ]
+      ]
+    },
+    {
+      "isin": "INF204KB14I5",
+      "txns": [
+        [
+          1,
+          "2023-05-04",
+          100,
+          10.51
+        ]
+      ]
+    }
+  ]
+}
+```
+
+</details>
+
+[Sample response](./sample_responses/fetch_stock_transaction.json)
+
+---
 
 ## **Integration Guidelines**
 

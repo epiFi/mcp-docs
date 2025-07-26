@@ -1,0 +1,500 @@
+{
+  "schemaDescription": "A list of bank transactions. Each 'txns' field is a list of data arrays with schema: [transactionAmount, transactionNarration, transactionDate, transactionType (1 for CREDIT, 2 for DEBIT, 3 for OPENING, 4 for INTEREST, 5 for TDS, 6 for INSTALLMENT, 7 for CLOSING and 8 for OTHERS), transactionMode, currentBalance].\n We currently have have only last two month transaction, older transaction are coming soon...",
+  "bankTransactions": [
+    {
+      "bank": "HDFC Bank",
+      "txns": [
+        [
+          "80085",
+          "UPI-SHEETAL RAVINDRA DA-SHEETAL.DAMBAL@OKSBI-SBIN0010411-109209224698-SUFYAN",
+          "2025-07-09",
+          1,
+          "CARD_PAYMENT",
+          "-79109"
+        ],
+        [
+          "80677",
+          "UPI-DREAMPLUG TECHNOLOGI-CRED@AXISB-UTIB0000114-009400589368-CREDIT CARD BILL P",
+          "2025-07-09",
+          2,
+          "FT",
+          "1568"
+        ],
+        [
+          "80267",
+          "UPI-RAVISHANKAR-Q78015288@YBL-YESB0YBLUPI-123535728297-PAYMENT FROM PHONE",
+          "2025-07-09",
+          1,
+          "OTHERS",
+          "-79180"
+        ],
+        [
+          "80156",
+          "UPI-HARDIK  AGRAWAL-9971488189.NIYO@IDFCBANK-IDFB0040101-031108651605-UPI",
+          "2025-07-09",
+          2,
+          "OTHERS",
+          "976"
+        ],
+        [
+          "80565",
+          "UPI-UBER INDIA SYSTEMS P-UBERRIDES@HDFCBANK-HDFC0000499-105117853141-CHARGE",
+          "2025-07-09",
+          2,
+          "OTHERS",
+          "1087"
+        ],
+        [
+          "80016",
+          "UPI-ABDESH KUMAR YADAV-PAYTMQR28100505010117UM15XIYV9E@PAYTM-PYTM0123456-120209292799-PAYMENT FROM PHONE",
+          "2025-07-09",
+          1,
+          "CASH",
+          "-79478"
+        ],
+        [
+          "80768",
+          "CREDIT INTEREST CAPITALISED",
+          "2025-07-09",
+          2,
+          "OTHERS",
+          "538"
+        ],
+        [
+          "80287",
+          "UPI-TREND AUTOMOBILES-105302393@CNRB-CNRB0001074-035222057565-PAYMENT FROM PHONE",
+          "2025-07-09",
+          1,
+          "CASH",
+          "-80230"
+        ],
+        [
+          "80083",
+          "UPI-MAHESH S-Q60573690@YBL-KKBK0008043-104558209248-PAYMENT FROM PHONE",
+          "2025-07-09",
+          2,
+          "ATM",
+          "57"
+        ],
+        [
+          "80984",
+          "UPI-SWIGGY-SWIGGY8@YBL-YESB0YBLUPI-101057836776-PAYMENT FROM PHONE",
+          "2025-07-09",
+          1,
+          "CASH",
+          "-80026"
+        ],
+        [
+          "80994",
+          "50200015847022SALAUG 20 108621",
+          "2025-07-07",
+          1,
+          "CARD_PAYMENT",
+          "-75247"
+        ],
+        [
+          "80741",
+          "IMPS-018422244664-ADITYA BIRLA SUN LIF-HDFC-XXXXXXXX3578-RD3192534-1038644104",
+          "2025-07-07",
+          2,
+          "CASH",
+          "5494"
+        ],
+        [
+          "80326",
+          "UPI-CRED-CRED@AXISB-UTIB0000114-103219881988-CREDIT CARD BILL P",
+          "2025-07-07",
+          1,
+          "CASH",
+          "-75231"
+        ],
+        [
+          "80978",
+          "UPI-PARSURAMPURAM SRINIV-6370242870@YBL-ORBC0101157-031627719147-PAYMENT FROM PHONE",
+          "2025-07-07",
+          2,
+          "CARD_PAYMENT",
+          "5747"
+        ],
+        [
+          "80769",
+          "UPI-DREAMPLUG TECHNOLOGI-CRED@AXISB-UTIB0000114-023113790606-CREDIT CARD BILL P",
+          "2025-07-07",
+          1,
+          "CASH",
+          "-75437"
+        ],
+        [
+          "80532",
+          "UPI-PINTU GUPTA-PAYTMQR281005050101LK22YFGX0QRX@PAYTM-PYTM0123456-127404613871-PAYMENT FROM PHONE",
+          "2025-07-07",
+          2,
+          "CARD_PAYMENT",
+          "5095"
+        ],
+        [
+          "80278",
+          "NWD-438624XXXXXX3427-08887405-BANGALORE MET",
+          "2025-07-07",
+          1,
+          "FT",
+          "-75138"
+        ],
+        [
+          "80470",
+          "UPI-EURONETGPAY-EURONETGPAY.PAY@ICICI-ICIC0000001-035512416953-UPI",
+          "2025-07-07",
+          2,
+          "ATM",
+          "5332"
+        ],
+        [
+          "80806",
+          "CREDIT INTEREST CAPITALISED",
+          "2025-07-07",
+          1,
+          "FT",
+          "-75648"
+        ],
+        [
+          "80788",
+          "UPI-MD JAHANGIR-BHARATPE09892849123@YESBANKLTD-YESB0000105-102038302659-PAYMENT FROM PHONE",
+          "2025-07-07",
+          2,
+          "CARD_PAYMENT",
+          "5140"
+        ]
+      ]
+    },
+    {
+      "bank": "HDFC Bank",
+      "txns": [
+        [
+          "80072",
+          "UPI-MR MOHAMMED ZAHEERUL-8884442498@YBL-IDIB000B041-118513918994-PAYMENT FROM PHONE",
+          "2025-07-09",
+          2,
+          "ATM",
+          "3676"
+        ],
+        [
+          "80558",
+          "UPI-SWIGGY-SWIGGY8@YBL-YESB0YBLUPI-104264587845-PAYMENT FROM PHONE",
+          "2025-07-09",
+          1,
+          "OTHERS",
+          "-76396"
+        ],
+        [
+          "80408",
+          "UPI-ACT BROADBAND-PAYTM-ACTBAN4@PAYTM-PYTM0123456-016839849023-PAYMENT FOR SUBSCR",
+          "2025-07-09",
+          2,
+          "CARD_PAYMENT",
+          "4162"
+        ],
+        [
+          "80415",
+          "UPI-CRED-CRED@AXISB-UTIB0000114-030309272514-CREDIT CARD BILL P",
+          "2025-07-09",
+          1,
+          "CARD_PAYMENT",
+          "-76246"
+        ],
+        [
+          "80273",
+          "UPI-SATYA NARAYAN BEHER-8328853083@YBL-SBIN0002112-126364354416-PAYMENT FROM PHONE",
+          "2025-07-09",
+          2,
+          "CARD_PAYMENT",
+          "4169"
+        ],
+        [
+          "80631",
+          "CHQ PAID-MICR CTS-NO-SR POST MASTER  HPO",
+          "2025-07-09",
+          1,
+          "ATM",
+          "-76104"
+        ],
+        [
+          "80545",
+          "UPI-SRI BRAHMALINGESHWAR-PAYTMQR28100505010113CV8CXTZUHG@PAYTM-PYTM0123456-033363246388-PAYMENT FROM PHONE",
+          "2025-07-09",
+          2,
+          "FT",
+          "4527"
+        ],
+        [
+          "80870",
+          "UPI-BHARATPEMERCHANT-BHARATPE.0850487682@ICICI-ICIC0000001-031703603873-PAYMENT FROM PHONE",
+          "2025-07-09",
+          1,
+          "OTHERS",
+          "-76018"
+        ],
+        [
+          "80208",
+          "UPI-CRED-CRED@AXISB-UTIB0000114-112115658127-PAYMENT ON CRED",
+          "2025-07-09",
+          2,
+          "CARD_PAYMENT",
+          "4852"
+        ],
+        [
+          "80581",
+          "UPI-SIDDHANT KUMAR-SIDDHANTKUMAR171@DBS-DBSS0IN0811-101012491647-AMAZON NORD PAYMEN",
+          "2025-07-09",
+          1,
+          "ATM",
+          "-75356"
+        ],
+        [
+          "80203",
+          "UPI-DREAMPLUG TECHNOLOGI-CRED@AXISB-UTIB0000114-027200895296-CREDIT CARD BILL P",
+          "2025-07-07",
+          1,
+          "OTHERS",
+          "-74684"
+        ],
+        [
+          "80547",
+          "UPI-ACT BROADBAND-PAYTM-ACTBAN4@PAYTM-PYTM0123456-016839849023-PAYMENT FOR SUBSCR",
+          "2025-07-07",
+          2,
+          "OTHERS",
+          "5863"
+        ],
+        [
+          "80935",
+          "SALARY FROM MEDISYNC HEALTH MANAGEMENT SERVICES P L",
+          "2025-07-07",
+          1,
+          "OTHERS",
+          "-75168"
+        ],
+        [
+          "80687",
+          "UPI-SANJAY AGRAWAL-SANJAY30AGRAWAL@OKICICI-ICIC0000274-100922596493-TRANSFER",
+          "2025-07-07",
+          2,
+          "CASH",
+          "5519"
+        ],
+        [
+          "80304",
+          "NEFT CR-CITI0100000-FTMF REDEMPTION ACCOUNT-PRATEEK PATNAIK-CITIN20100690483",
+          "2025-07-07",
+          2,
+          "CARD_PAYMENT",
+          "5767"
+        ],
+        [
+          "80713",
+          "UPI-SWIGGY-SWIGGY8@YBL-YESB0YBLUPI-101783205806-PAYMENT FROM PHONE",
+          "2025-07-07",
+          1,
+          "OTHERS",
+          "-74537"
+        ],
+        [
+          "80572",
+          "UPI-PHONEPE-BILLDESKPP@YBL-YESB0YBLUPI-104831200709-PAYMENT FROM PHONE",
+          "2025-07-07",
+          1,
+          "CASH",
+          "-74676"
+        ],
+        [
+          "80852",
+          "UPI-CRED-CREDCC@YESBANK-YESB0000022-018492205316-CREDIT CARD BILL P",
+          "2025-07-07",
+          2,
+          "FT",
+          "6176"
+        ],
+        [
+          "80538",
+          "UPI-PRADIP KUMAR -PADDI6877@OKHDFCBANK-SBIN0040171-122195037544-UPI",
+          "2025-07-07",
+          2,
+          "OTHERS",
+          "5896"
+        ],
+        [
+          "80448",
+          "INST-ALERT CHG INC GST OCT-DEC2020-MIR2101402042013",
+          "2025-07-07",
+          1,
+          "CARD_PAYMENT",
+          "-74642"
+        ]
+      ]
+    },
+    {
+      "bank": "HDFC Bank",
+      "txns": [
+        [
+          "80559",
+          "UPI-AISHWARYA MINI MART-Q36365093@YBL-YESB0YBLUPI-104642349580-PAYMENT FROM PHONE",
+          "2025-07-09",
+          1,
+          "OTHERS",
+          "-77324"
+        ],
+        [
+          "80805",
+          "ACH C- TCS1STINTDIV310720-C2003055611208",
+          "2025-07-09",
+          2,
+          "ATM",
+          "3481"
+        ],
+        [
+          "80050",
+          "UPI-DUNZO DIGITAL PRIVAT-DUNZO1.PAYU@INDUS-INDB0002201-104767620300-PAYMENT FROM PHONE",
+          "2025-07-09",
+          1,
+          "CARD_PAYMENT",
+          "-77614"
+        ],
+        [
+          "80849",
+          "UPI-PHONEPE-BILLDESKPP@YBL-YESB0YBLUPI-022533819900-PAYMENT FOR CATEGO",
+          "2025-07-09",
+          2,
+          "FT",
+          "3235"
+        ],
+        [
+          "80309",
+          "UPI-SANJAY AGRAWAL-SANJAY30AGRAWAL@OKICICI-ICIC0000274-100922596493-TRANSFER",
+          "2025-07-09",
+          2,
+          "CARD_PAYMENT",
+          "2436"
+        ],
+        [
+          "80037",
+          "UPI-SAFE GOLD-SAFEGOLD@YBL-YESB0YBLUPI-016220690358-PAYMENT FOR CATEGO",
+          "2025-07-09",
+          1,
+          "CARD_PAYMENT",
+          "-77873"
+        ],
+        [
+          "80941",
+          "UPI-DIVYA DAS-DIVYADAS91@OKHDFCBANK-HDFC0002777-016519304334-UPI",
+          "2025-07-09",
+          2,
+          "OTHERS",
+          "2164"
+        ],
+        [
+          "80824",
+          "UPI-SUDHANVA MADHURAO RA-7760615177@YBL-HDFC0000877-019884154921-PAYMENT FROM PHONE",
+          "2025-07-09",
+          1,
+          "CARD_PAYMENT",
+          "-78777"
+        ],
+        [
+          "80632",
+          "UPI-OLA-OLAONLINE@YBL-YESB0YBLUPI-105086855192-PAYMENT FROM PHONE",
+          "2025-07-09",
+          1,
+          "CARD_PAYMENT",
+          "-78244"
+        ],
+        [
+          "80291",
+          "UPI-SWIGGY-SWIGGY8@YBL-YESB0YBLUPI-104139133337-PAYMENT FROM PHONE",
+          "2025-07-09",
+          2,
+          "CARD_PAYMENT",
+          "2047"
+        ],
+        [
+          "80135",
+          "UPI-MR PRATEEK PATNAIK-PATNAIK.PRATEEK@YBL-IDIB000S176-033939878475-PAYMENT FROM PHONE",
+          "2025-07-07",
+          2,
+          "ATM",
+          "9964"
+        ],
+        [
+          "80544",
+          "UPI-DREAMPLUG TECHNOLOGI-CRED@AXISB-UTIB0000114-012016383521-CREDIT CARD BILL P",
+          "2025-07-07",
+          1,
+          "CARD_PAYMENT",
+          "-70171"
+        ],
+        [
+          "80939",
+          "UPI-DREAMPLUG TECHNOLOGI-CRED@AXISB-UTIB0000114-009400741981-CREDIT CARD BILL P",
+          "2025-07-07",
+          2,
+          "CASH",
+          "10373"
+        ],
+        [
+          "80652",
+          "UPI-SUMAN  SWAROOP-SUMANSWAR12@OKSBI-SBIN0006652-006006641672-PETROL",
+          "2025-07-07",
+          1,
+          "CARD_PAYMENT",
+          "-70566"
+        ],
+        [
+          "80657",
+          "UPI-GIRRAJ MEDICAL STORE-PAYTMQR28100505010111A10BLF7BGA@PAYTM-PYTM0123456-033319425613-UPI",
+          "2025-07-07",
+          2,
+          "CARD_PAYMENT",
+          "10086"
+        ],
+        [
+          "80772",
+          "UPI-SPORTA TECHNOLOGIES -FANCODE.PAYU@INDUS-INDB0002201-036509119466-UPI TRANSACTION",
+          "2025-07-07",
+          1,
+          "CASH",
+          "-70571"
+        ],
+        [
+          "80260",
+          "UPI-HARDIK  AGRAWAL-HARDIK0406AGRAWAL@OKSBI-SBIN0030261-028317839465-SAVINGS",
+          "2025-07-07",
+          1,
+          "FT",
+          "-69933"
+        ],
+        [
+          "80134",
+          "UPI-SHANTI MANTRI-9652458674@YBL-SBIN0020380-101654249219-PAYMENT FROM PHONE",
+          "2025-07-07",
+          2,
+          "CASH",
+          "10201"
+        ],
+        [
+          "80776",
+          "UPI-FX MART PRIVATE LIMI-FXM@YBL-YESB0YBLUPI-010720599609-WALLET TOPUP",
+          "2025-07-07",
+          2,
+          "CARD_PAYMENT",
+          "10327"
+        ],
+        [
+          "80163",
+          "UPI-RAMA SUDHAKAR PATNAI-9414077884@YBL-SBIN0020702-104321119119-PAYMENT FROM PHONE",
+          "2025-07-07",
+          1,
+          "ATM",
+          "-70449"
+        ]
+      ]
+    }
+  ]
+}
